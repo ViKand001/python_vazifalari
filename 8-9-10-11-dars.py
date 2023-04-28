@@ -162,5 +162,104 @@
  
  
  
+ # 15-dars Dictionary
+ #26.04.2023
+ 
+#car_0 = {'model' : 'Gentra', 'rangi' : 'qora'}
+#print(car_0['model'])
+#print(car_0['rangi'])
+ 
+#en_uz = {'apple' : 'olma', 'apricot' : 'o\'rik', 'banana' : 'banan' }
+
+#mevalar = {"olma" : 10000, 'tarvuz' : 8000, 'qovun' :10000}
+#print(f" Olma narhi {mevalar['olma']} so'm")
+
+# Lug'atda istalgan  ma'lumot turlarini saqlash.
+#talaba_0 = {"ism":"Murod Olimov", "yosh":20, "t_yil":2000}
+#print(f"{talaba_0['ism'].title()},\
+ #    {talaba_0['t_yil']}-yilda tugilgan,\
+  #     {talaba_0['yosh']} yoshda ")      
+          
+# Yangi kalit qo'shish
+#talaba_0['kurs'] = 4
+#talaba_0['fakultet'] = 'informatika'
+# o'zgartirish
+#talaba_0['ism'] = 'Asilbek'
+
+# Bo'sh lug'at
+#talaba_1 = {}
+#talaba_1['ism'] = 'Joldasov Asilbek'
+#talaba_1['kurs'] = 2
+#talaba_1['yosh'] = 20
+#print(talaba_1)
+
+#Qiymatni yangilash
+#talaba_1['kurs'] = 3
+
+# Kalit so'z qiymayni ochirin tashlash
+#talaba_1 = {'sim': 'joldasov asilbek', 'yosh':20 }
+#del talaba_1['yosh']
+
+#telefonlar = {
+ #   'ali':'galaxy s9',
+  #  'vali': 'Samsung 10S',
+   # 'olim': 'mi 10 pro',
+    #'orif':'nokia 3310'
+#    }
+
+
+#get metodi
+#phone = telefonlar['ali']
+#print(f"alining telefoni{phone}")
+
+#phone = telefonlar.get('hasan')
+#print(phone)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
  
  
