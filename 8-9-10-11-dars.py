@@ -2,11 +2,11 @@
 #Muallif JOodasov Asilbek
 
 #avtolar = ['Audo', 'bmw', 'volvo', 'kia', 'hyundai']
-#0for avto in avtolar:
-  #    if avto == 'bmw':
-   #        print(avto.upper())
-    #  else:
-     #      print(avto.title())
+#for avto in avtolar:
+#      if avto == 'bmw':
+#           print(avto.upper())
+#      else:
+#           print(avto.title())
            
 #ism = 'Ali'
 #ism.lower() == 'Ali' 
@@ -214,6 +214,9 @@
 
 #phone = telefonlar.get('hasan')
 #print(phone)
+
+
+# 19:34  01.05.2023
 
 
 
