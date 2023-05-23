@@ -62,16 +62,16 @@ Created on Sat Apr 29 17:57:58 2023
 #juft_sonlar = list(filter(lambda x: x%2==0, sonlar))
 #print(juft_sonlar)
 
-mevalar = ['olma', 'anor', 'anjir', 'shaftoli', 'o\'rik','tarvuz', 'qovun', 'banan']
-harf='t'
-mevalar_b =list(filter(lambda meva:meva.startswith(harf), mevalar))
+#mevalar = ['olma', 'anor', 'anjir', 'shaftoli', 'o\'rik','tarvuz', 'qovun', 'banan']
+#harf='t'
+#mevalar_b =list(filter(lambda meva:meva.startswith(harf), mevalar))
 #print(mevalar_b)
 
-mevalar2 = list(filter(lambda meva:len(meva)<=5, mevalar))
+#mevalar2 = list(filter(lambda meva:len(meva)<=5, mevalar))
 #print(mevalar2)
 
-a_r= list(filter(lambda meva:(meva.startswith('a') and meva.endswith('r')), mevalar))
-print(a_r)
+#a_r= list(filter(lambda meva:(meva.startswith('a') and meva.endswith('r')), mevalar))
+#print(a_r)
 
 
 

@@ -200,20 +200,20 @@
 #talaba_1 = {'sim': 'joldasov asilbek', 'yosh':20 }
 #del talaba_1['yosh']
 
-#telefonlar = {
- #   'ali':'galaxy s9',
-  #  'vali': 'Samsung 10S',
-   # 'olim': 'mi 10 pro',
-    #'orif':'nokia 3310'
-#    }
+telefonlar = {
+   'ali':'galaxy s9',
+   'vali': 'Samsung 10S',
+   'olim': 'mi 10 pro',
+   'orif':'nokia 3310'
+    }
 
 
 #get metodi
-#phone = telefonlar['ali']
-#print(f"alining telefoni{phone}")
+phone = telefonlar['ali']
+print(f"alining telefoni{phone}")
 
-#phone = telefonlar.get('hasan')
-#print(phone)
+phone = telefonlar
+print(phone)
 
 
 # 19:34  01.05.2023
